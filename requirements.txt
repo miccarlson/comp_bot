@@ -1,1 +1,3 @@
-praw
+praw==4.4.0
+requests==2.9.1
+
